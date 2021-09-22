@@ -40,6 +40,8 @@ h3{
 position: relative;
 margin: 50px 20% 80px 20%;
   width:67%;
+  text-align: center;
+    list-style-position: inside;
 }
 
 .bottom-container{

@@ -364,20 +364,12 @@ h3{
     position: relative;
 }
 
-.skills{
-position: absolute;
-margin-top: 35rem;
-margin-left: 18rem;
-  width:67%;
-}
-
-/*
  .skills{
-    position: abso;
-    margin: 50px 20% 80px 20%;
+    position: relative;
+    margin: 1rem 20% 2rem 20%;
     width:67%;
     text-align: left;
-}*/
+}
 
 .bottom-container{
     text-align: center;

@@ -436,10 +436,6 @@ ul.b  {
 	margin-top: -1rem;
 }
 
-.Domain_img{
-	width: 75%;
-	height: 75%;
-}
 
 .footer{
 	text-align: center;
@@ -447,6 +443,10 @@ ul.b  {
 
 .imgAnalysis{
 	width: 70%
+}
+
+.imgDomain{
+	width:70%
 }
 
 .Analysis{

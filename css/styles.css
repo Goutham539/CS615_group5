@@ -436,6 +436,11 @@ ul.b  {
 	margin-top: -1rem;
 }
 
+.domain{
+	max-width: 75%;
+	max-height: 75%;
+}
+
 .footer{
 	text-align: center;
 }

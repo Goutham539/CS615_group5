@@ -28,8 +28,14 @@ h2{
 }
 
 h3{
+  font-size: 1.5rem;
   margin-top: 0;
   color: #11999E;
+}
+
+p{
+    font-size: 1.2rem;
+    margin-top: 0;
 }
 
 /* Slider */
@@ -466,5 +472,5 @@ ul.b  {
 }
 
 .sktch{
-	height: 50rem;
+    height: 500px;
 }

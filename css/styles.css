@@ -25,6 +25,7 @@ h2{
   margin-top: 0;
   color: #66BFBF;
   font-weight: normal;
+  text-align: center;
 }
 
 h3{
@@ -465,11 +466,12 @@ ul.b  {
     padding: 2rem;
 }
 
-.PaperProto{
+.Prototype1{
     font-family: 'Crimson Pro', serif;
     font-size: x-large;
-    text-align: center;
+    text-align: left;
     padding: 2rem;
+    
 }
 
 .User{
@@ -480,4 +482,9 @@ ul.b  {
 
 .sktch{
     height: 500px;
+}
+
+.pp1{
+    height: 500px;
+    text-align: center;
 }

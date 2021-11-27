@@ -460,6 +460,7 @@ ul.b  {
 .Steps{
 	font-family: 'Crimson Pro', serif;
 	font-size: x-large;
+	text-align: center;
 	padding: 2rem;
 }
 

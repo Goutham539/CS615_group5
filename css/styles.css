@@ -12,6 +12,27 @@ div{
 }
 */
 
+.NavBar{
+	background-color: black;
+}
+
+.NavBar a{
+	font-size: 18px;
+	text-align: right;
+	color: #f2f2f2;
+	padding: 14px 16px;
+}
+
+.NavBar a:hover{
+	background-color: #ddd;
+	color: black;
+}
+
+.NavBar a.active{
+	background-color: #04AA6D;
+	color: white;
+}
+
 h1{
   font-size: 4rem;
   color: #66BFBF;
